@@ -1,5 +1,5 @@
 /*
-Theme Name: My Lubith Theme 2
+Theme Name: dstep tech
 Theme URI: 
 Description: 
 Author: dstep189
@@ -142,7 +142,7 @@ Additional layout elements
 	position: absolute;
 	z-index: 2;
 	margin: 63px 0 0 623px;
-	padding: 7px 0 7px 12px;
+	padding: 9px 0 9px 12px;
 }
 #main {
 	text-align: left;
@@ -403,6 +403,7 @@ div.menu li {
 	height: 29px;
 	display: list-item;
 	float: left;
+	margin: 0 8px 0 0;
 	border: 2px solid #034228;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -425,7 +426,7 @@ div.menu li {
 	display: none;
 	z-index: 10;
 	border: 2px solid #034228;
-	padding: 10px 7px 10px 7px;
+	padding: 10px 8px 10px 8px;
 	background: rgba(33, 110, 41, 0.8);
 }
 #access ul ul {
@@ -435,7 +436,7 @@ div.menu li {
 }
 #access ul ul li {
 	width: 100%;
-	margin: 0;
+	margin: 0 0 6px 0;
 }
 #access ul ul li a {
 	color: #43d1b5;
@@ -483,6 +484,7 @@ div.menu li {
 	height: 29px;
 	display: list-item;
 	float: left;
+	margin: 0 8px 0 0;
 	border: 2px solid #034228;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -500,6 +502,7 @@ div.menu li {
 	height: 38px;
 	display: list-item;
 	overflow: hidden;
+	margin: 0 0 6px 0;
 	border: 1px solid #034228;
 	border-radius: 0;
 	-moz-border-radius: 0;
