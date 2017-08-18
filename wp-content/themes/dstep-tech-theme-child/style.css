@@ -1,0 +1,15 @@
+/*
+ Theme Name:   dstep tech theme child
+ Theme URI:    http://example.com/dstep-tech-theme-child/
+ Description:  dstep tech child theme - dstep
+ Author:       dstep189
+ Author URI:   http://example.com
+ Template:     dstep-tech-theme
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  dstep-tech-theme-child
+*/
+
+
+
+@import url("../dstep-tech-theme/style.css");
