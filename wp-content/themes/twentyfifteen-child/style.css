@@ -115,3 +115,17 @@ a:hover {
 .entry-content a:hover {
 	color: #28d4c9;
 }
+
+body:before {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+body:before a {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+body:before a:hover {
+	color: #28d4c9;
+}
