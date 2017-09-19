@@ -1,0 +1,117 @@
+/*
+ Theme Name:   Twenty Fifteen Theme Child
+ Theme URI:    http://example.com/twentyfifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       dstep
+ Author URI:   http://example.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteen-child
+*/
+
+@import url("../twentyfifteen/style.css");
+
+.site-info {
+	background-color: #0b3b38;
+}
+
+.site-footer {
+	background-color: #0b3b38;
+}
+
+.entry-footer {
+	background-color: #0b3b38;
+}
+
+.entry-content {
+	background-color: #14716f;
+}
+
+.hentry {
+	background-color: #14716f;
+}
+
+.sidebar {
+	background-color: #14716f;
+}
+
+.site-header {
+	background-color: #14716f;
+}
+
+body:before {
+	background-color: #14716f;
+}
+
+.site-main {
+	background-color: #0d2120;
+}
+
+.site {
+	background-color: #0d2120;
+}
+
+body {
+	background-color: #0d2120;
+}
+
+a {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+a:hover {
+	color: #28d4c9;
+}
+
+.site-description {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+.entry-title {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+.entry-footer a {
+	font-family: aclonica,seriff;
+	color: #14716f;
+}
+
+.entry-footer {
+	color: #14716f;
+}
+
+.entry-footer a:hover {
+	color: #28d4c9;
+}
+
+.site-info a {
+	font-family: aclonica,seriff;
+	color: #14716f;
+}
+
+.site-info {
+	font-family: aclonica,seriff;
+	color: #14716f;
+}
+
+.site-info a:hover {
+	color: #28d4c9;
+}
+
+.entry-content {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+.entry-content a {
+	font-family: aclonica,seriff;
+	color: #0b3b38;
+}
+
+.entry-content a:hover {
+	color: #28d4c9;
+}
